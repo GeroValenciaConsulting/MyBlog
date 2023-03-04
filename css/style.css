@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    text-align: left;
+}
+main {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 300vh;
+    display: block;
+
+}
+h1:hover {
+   color: gold; 
+}
+header {
+    background-color:black;
+    display: block;
+    height: 11rem;
+    margin: 0;
+}
+.imageletter {
+    margin: 0;
+    padding:0;
+    height: 5rem;
+}
+.table1 {
+    float: left;
+}
+.table2 {
+    float: right;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h3 {
+    color: yellow;
+}
+.centerhead {
+    margin: 0 25%;
+    position: absolute;
+}
+nav {
+    margin: 0;
+    padding:0;
+    height: 1%;
+    display: block;
+    background-color: gold;
+}
+ul {
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    display: inline;
+    float:left;
+    padding: 0 5%;
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+}
+a {
+    text-decoration: none;
+}
+p {
+    color: yellow;
+}
+
+.td1 {
+    padding: 3rem 3rem;   
+}
+form {
+    color: yellow;
+    text-align: center;
+}
+footer {
+    padding-top: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 0;
+    text-align: center;
+}
+.section {
+    text-align: left;
+}
+.table3 {
+    color: yellow;
+}
